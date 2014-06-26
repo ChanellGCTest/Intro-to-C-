@@ -1,0 +1,6 @@
+C:\Users\Samsung\Documents\GitHub\Intro-to-C-\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Samsung\Documents\GitHub\Intro-to-C-\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Samsung\Documents\GitHub\Intro-to-C-\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Samsung\Documents\GitHub\Intro-to-C-\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Documents\GitHub\Intro-to-C-\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Samsung\Documents\GitHub\Intro-to-C-\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
